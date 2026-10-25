@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-10-25T14:31:11+00:00",
+  "requests": 518,
+  "requests_scored_by_models": 550,
+  "per_model": {},
+  "model_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "total_tokens": 0,
+  "avg_tokens_per_request": 0.0,
+  "cost_usd": 0.0,
+  "cost_per_request_usd": 0.0,
+  "local_ocr_images": 11,
+  "local_pdf_documents": 4
+}
